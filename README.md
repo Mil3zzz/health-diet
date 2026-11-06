@@ -54,7 +54,6 @@ See `log/` for dated notes (what changed and why).
 1. **Food:** 3,250 kcal, protein 165–180 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
 2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber only as needed. Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
-4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, morning after the night atomoxetine dose). Look for a pattern after a week.
+4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
 5. **Caffeine:** medium iced coffee instead of large. Caffeine-free soda at night.
 6. **Weigh every morning;** check the weekly average each Sunday. Adjust calories by 150–200 if needed.
-7. **Atomoxetine:** he plans to ask his prescriber about lowering the dose (sweating; possibly gut).
