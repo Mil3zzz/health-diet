@@ -43,7 +43,8 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
   - Favorites so far: best-plate-potato-chicken-lentils, air-fryer-russet-cubes. To try: chicken-parm-cubes-pasta.
 
 ## Supplements / training notes
-- Creatine daily (mixed into shake). NutraBio Super Carb intra-workout. Premier protein shakes.
+- Creatine daily (mixed into shake).
+- OptiFiber (his own choice, not doctor-prescribed): as of Nov 6 only as needed, on low-fiber days (under ~25 g from food) or if bowel movements slow or harden. Not daily. NutraBio Super Carb intra-workout. Premier protein shakes.
 - Coffee: McDonald's iced coffee with sugar-free vanilla.
 
 ## Log
