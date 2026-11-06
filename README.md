@@ -8,7 +8,7 @@ Miles, 23, ~91 kg, lifts (recomp leaning toward a lean bulk). Budget-conscious. 
 ## Daily targets (judge by the weekly average, not single days)
 | | Target |
 |---|---|
-| Calories | 3,000–3,100 kcal (may raise 150–200 if the weekly weight average stalls and he still feels flat) |
+| Calories | **3,250 kcal** (raised Nov 5 from 3,000–3,100; he felt flat/small). Weigh each morning; aim for the weekly average to rise ~0.25–0.5 kg/week. Extra calories go to carbs/fat, not protein. |
 | Protein | 165–180 g (no need to go past ~180–200) |
 | Fiber | ~30 g |
 | Sodium | under 2,300 mg (usually the limit that bites first, especially on fast-food days) |
