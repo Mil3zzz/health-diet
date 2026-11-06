@@ -13,7 +13,9 @@ Miles, 23, ~91 kg, lifts (recomp leaning toward a lean bulk). Budget-conscious. 
 | Fiber | ~30 g |
 | Sodium | under 2,300 mg (usually the limit that bites first, especially on fast-food days) |
 
-Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kcal snack. Easy calorie adds: whole milk, Oreos, yogurt bowl, olive oil, rice.
+Preference: goal is a lean bulk or lean maintain. Get extra calories from clean, whole foods (milk, oil, oats, rice, potatoes, eggs, yogurt, avocado). Fast food, candy and sweets are not a calorie strategy; an occasional soda or treat is fine but never the plan.
+
+Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kcal snack. Easy calorie adds: whole milk, yogurt bowl, olive oil, rice, extra oats, avocado.
 
 ## Hard rules
 - **Allergies:** bananas, peanuts, tree nuts. Never suggest them.
