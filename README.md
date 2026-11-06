@@ -57,3 +57,6 @@ See `log/` for dated notes (what changed and why).
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
 5. **Caffeine:** medium iced coffee instead of large. Caffeine-free soda at night.
 6. **Weigh every morning;** check the weekly average each Sunday. Adjust calories by 150–200 if needed.
+
+## Food quality preference (Nov 6)
+Wants a lean bulk / lean maintain. Do NOT fill calorie gaps with fast food, fries, burgers, fried pies or similar. Use whole-food calories instead: whole milk, yogurt oat bowls, oats, rice, potatoes, eggs, olive oil, cheese, seeds, fruit (never banana), granola without nuts. Occasional treats are fine but should not be the default snack.
