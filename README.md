@@ -42,6 +42,7 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 - **Recipe Book**: https://claude.ai/artifact/6GXLGi99nWFYz66e2M53dM
   - DB collection `data/users/me/recipebook/recipes`
   - Doc shape: `{title, meal, time, yield, fav, added, tags[], ingredients:[{g,item}], steps[], notes, macros:{k,p,c,ft,fi,na,per,est?}}`
+  - **Grocery list** (Groceries tab, `#groceries`): collection `data/users/me/recipebook/grocery`, doc shape `{name, amt, sec, note, staple, need, got, order, added}`. `need`=on this trip, `got`=in cart, `staple`=weekly item that returns to the staples list after Done shopping. Weekly amounts sized for ~3,300 kcal/day.
   - Favorites so far: best-plate-potato-chicken-lentils, air-fryer-russet-cubes. To try: chicken-parm-cubes-pasta.
 
 ## Supplements / training notes
