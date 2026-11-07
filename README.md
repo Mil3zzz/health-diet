@@ -32,6 +32,12 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 - Bell & Evans breaded breast nuggets: weigh frozen; label 112 g = 200 kcal / 21 g protein / 10 g carbs / 9 g fat / 360 mg Na.
 - Air-fryer marinara chicken batch (477 g raw): 439 g cooked ≈ 755 kcal / 114 g protein / ~480 mg Na.
 
+## How the system works (set up Nov 7, 2026)
+- **This repo** = the handover. A new chat reads this README first.
+- **Plate Log** = the daily food log (what he eats, in grams). Claude logs meals from his weights and photos.
+- **Recipe Book** = recipes he has cooked, plus the **grocery list**. Claude keeps the grocery list current as the weeks go by: adds what is running low or needed for planned recipes, sizes amounts to the calorie target, and removes things he no longer buys.
+- Workflow: he tells Claude what he ate or what he is out of; Claude updates the log and the list.
+
 ## Where the data lives (claude.ai artifacts, not in this repo)
 - **Plate Log** (daily food log): https://claude.ai/artifact/57R5L2zWjrQuuJHoUzaobD
   - DB collection `data/users/me`, one doc per day: `day-YYYY-MM-DD`
