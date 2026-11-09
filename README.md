@@ -8,7 +8,7 @@ Miles, 23, ~91 kg, lifts (recomp leaning toward a lean bulk). Budget-conscious. 
 ## Daily targets (judge by the weekly average, not single days)
 | | Target |
 |---|---|
-| Calories | **~3,200 kcal** (3,150–3,250; set Nov 8 after the 196 lb dip turned out to be water; goal is a slow gain). Weigh each morning; aim for the weekly average to rise ~0.5–1 lb/week. Extra calories go to carbs/fat, not protein. |
+| Calories | **~3,300 kcal** (set Nov 9: morning weights 196 → 200 → ~193.8 suggest maintenance is higher than thought; goal is a slow gain). Weigh each morning; aim for the weekly average to rise ~0.5–1 lb/week. Extra calories go to carbs/fat, not protein. |
 | Protein | **180–200 g** (raised Nov 6 at his request) |
 | Fiber | ~30 g |
 | Sodium | under 2,300 mg (usually the limit that bites first, especially on fast-food days) |
@@ -60,7 +60,7 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 See `log/` for dated notes (what changed and why).
 
 ## Current plan (set Nov 6, 2026)
-1. **Food:** ~3,200 kcal, protein 180–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
+1. **Food:** ~3,300 kcal, protein 180–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
 2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber only as needed. Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
