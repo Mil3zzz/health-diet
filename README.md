@@ -53,6 +53,7 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 
 ## Supplements / training notes
 - Creatine daily (mixed into shake). NutraBio Super Carb intra-workout. Premier protein shakes.
+- Electrolytes: Nuun Sport tablets (300 mg sodium, 1 g sugar), bought Nov 9. One tablet in the Super Carb on gym days only; plain water otherwise. Not LMNT (1,000 mg sodium is too much given his blood pressure).
 - OptiFiber (his own choice, not doctor-prescribed): as of Nov 6 only as needed, on low-fiber days (under ~25 g from food) or if bowel movements slow or harden. Not daily.
 - Coffee: McDonald's iced coffee with sugar-free vanilla.
 
