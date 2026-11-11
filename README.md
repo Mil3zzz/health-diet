@@ -55,7 +55,7 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 - Creatine daily (mixed into shake). NutraBio Super Carb intra-workout. Premier protein shakes.
 - Protein powder: Ryse Loaded Protein (whey isolate + concentrate), bought Nov 9. Per scoop (36 g): 140 kcal, 25 g protein, 4 g carbs, 2.5 g fat (2 g sat), 1 g fiber, 230 mg sodium, 45 mg cholesterol. Use to fill gaps (post-gym, short days), not daily.
 - Electrolytes: Nuun Sport tablets (300 mg sodium, 1 g sugar), bought Nov 9. One tablet in the Super Carb on gym days only; plain water otherwise. Not LMNT (1,000 mg sodium is too much given his blood pressure).
-- OptiFiber (his own choice, not doctor-prescribed): as of Nov 6 only as needed, on low-fiber days (under ~25 g from food) or if bowel movements slow or harden. Not daily.
+- OptiFiber (his own choice, not doctor-prescribed): back to DAILY as of Nov 10 (1 scoop with a full glass of water). He was as-needed Nov 6–10; his gut felt better and his weight was steadier on daily use. Keep it consistent so weigh-ins are comparable.
 - Coffee: McDonald's iced coffee with sugar-free vanilla.
 
 ## Log
@@ -63,7 +63,7 @@ See `log/` for dated notes (what changed and why).
 
 ## Current plan (set Nov 6, 2026)
 1. **Food:** ~3,300 kcal, protein 180–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
-2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber only as needed. Probiotics optional; restart only if they noticeably helped before.
+2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber daily (since Nov 10). Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
 5. **Caffeine:** medium iced coffee instead of large. Caffeine-free soda at night.
