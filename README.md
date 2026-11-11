@@ -55,7 +55,7 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 - Creatine daily (mixed into shake). NutraBio Super Carb intra-workout. Premier protein shakes.
 - Protein powder: Ryse Loaded Protein (whey isolate + concentrate), bought Nov 9. Per scoop (36 g): 140 kcal, 25 g protein, 4 g carbs, 2.5 g fat (2 g sat), 1 g fiber, 230 mg sodium, 45 mg cholesterol. Use to fill gaps (post-gym, short days), not daily.
 - Electrolytes: Nuun Sport tablets (300 mg sodium, 1 g sugar), bought Nov 9. One tablet in the Super Carb on gym days only; plain water otherwise. Not LMNT (1,000 mg sodium is too much given his blood pressure).
-- OptiFiber (his own choice, not doctor-prescribed): back to DAILY as of Nov 10 (1 scoop with a full glass of water). He was as-needed Nov 6–10; his gut felt better and his weight was steadier on daily use. Keep it consistent so weigh-ins are comparable.
+- OptiFiber (his own choice, not doctor-prescribed): back to DAILY as of Nov 10: 1 scoop with LUNCH (after the gym on gym days), with a full glass of water. Creatine + glutamine with breakfast; no need to wait after glutamine. He was as-needed Nov 6–10; his gut felt better and his weight was steadier on daily use. Keep it consistent so weigh-ins are comparable.
 - Coffee: McDonald's iced coffee with sugar-free vanilla.
 
 ## Log
