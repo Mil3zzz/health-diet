@@ -3,17 +3,17 @@
 **New chat? Read this whole file first, then pick up where `log/` leaves off.**
 
 ## Who
-Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). Goal since Nov 13: recomp at maintenance. Budget-conscious. Timezone America/New_York.
+Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). Goal: 6-week mini cut (Nov 14 to about Dec 26), then back to maintenance (~3,200–3,300). Budget-conscious. Timezone America/New_York.
 
 ## Daily targets (judge by the weekly average, not single days)
 | | Target |
 |---|---|
-| Calories | **~3,200–3,300 kcal = maintenance** (decided Nov 13: a week averaging ~3,300 kcal held morning weight flat at ~196–197 lb). Goal is a recomp, so a flat weekly average is the target. Only adjust by 150–200 kcal if the weekly average drifts more than ~1 lb. |
-| Protein | **180–200 g** (raised Nov 6 at his request) |
+| Calories | **~3,000 kcal** (mini cut, about 300 under maintenance; maintenance measured at ~3,200–3,300, where a week of eating held weight flat at ~196–197 lb). Expect ~0.5 lb/week, 3–4 lb total. **Stop rules:** weekly average reaches 192 lb, main lifts drop two sessions in a row, or loss is faster than 1 lb/week → return to maintenance. |
+| Protein | **190–200 g** during the cut |
 | Fiber | ~30 g |
 | Sodium | under 2,300 mg (usually the limit that bites first, especially on fast-food days) |
 
-Preference: recomp at maintenance (he has love handles and feels 'fat but small'; no real surplus, no cut). Get calories from clean, whole foods (milk, oil, oats, rice, potatoes, eggs, yogurt, avocado). Fast food, candy and sweets are not a calorie strategy; an occasional soda or treat is fine but never the plan.
+Preference: trim the love handles without getting smaller. Keep the cut small and short, keep meals big, never suggest a larger deficit. Get calories from clean, whole foods (milk, oil, oats, rice, potatoes, eggs, yogurt, avocado). Fast food, candy and sweets are not a calorie strategy; an occasional soda or treat is fine but never the plan.
 
 Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kcal snack. Easy calorie adds: whole milk, yogurt bowl, olive oil, rice, extra oats, avocado.
 
@@ -61,14 +61,14 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 ## Log
 See `log/` for dated notes (what changed and why).
 
-## Current plan (set Nov 6, updated Nov 13, 2026)
-1. **Food:** ~3,200–3,300 kcal, protein 180–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
+## Current plan (set Nov 6, updated Nov 14, 2026)
+1. **Food:** ~3,000 kcal, protein 190–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
 2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber daily (since Nov 10). Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
 5. **Caffeine:** medium iced coffee instead of large. Caffeine-free soda at night.
-6. **Weigh every morning;** check the weekly average each Sunday. Flat is the goal.
-7. **Waist:** measure at the navel once a week, in the morning. Waist and lifts show recomp progress; the scale barely moves.
+6. **Weigh every morning;** check the weekly average each Sunday. Slow loss (~0.5 lb/week) is the goal during the cut.
+7. **Progress check:** he prefers to judge by the mirror, not a tape measure. Lifts holding + waist visibly leaner = working. No step target; keep the post-workout walk.
 8. **Core / posture:** he has an anterior pelvic tilt and did not train core. Suggested adding dead bugs, hip-tucked planks, glute bridges and a hip flexor stretch 2–3x/week (his training split is planned in Gemini).
 
 ## Food quality preference (Nov 6)
