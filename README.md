@@ -3,17 +3,17 @@
 **New chat? Read this whole file first, then pick up where `log/` leaves off.**
 
 ## Who
-Miles, 23, ~91 kg, lifts (recomp leaning toward a lean bulk). Budget-conscious. Timezone America/New_York.
+Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). Goal since Nov 13: recomp at maintenance. Budget-conscious. Timezone America/New_York.
 
 ## Daily targets (judge by the weekly average, not single days)
 | | Target |
 |---|---|
-| Calories | **~3,300 kcal** (set Nov 9: morning weights 196 → 200 → ~193.8 suggest maintenance is higher than thought; goal is a slow gain). Weigh each morning; aim for the weekly average to rise ~0.5–1 lb/week. Extra calories go to carbs/fat, not protein. |
+| Calories | **~3,200–3,300 kcal = maintenance** (decided Nov 13: a week averaging ~3,300 kcal held morning weight flat at ~196–197 lb). Goal is a recomp, so a flat weekly average is the target. Only adjust by 150–200 kcal if the weekly average drifts more than ~1 lb. |
 | Protein | **180–200 g** (raised Nov 6 at his request) |
 | Fiber | ~30 g |
 | Sodium | under 2,300 mg (usually the limit that bites first, especially on fast-food days) |
 
-Preference: goal is a lean bulk or lean maintain. Get extra calories from clean, whole foods (milk, oil, oats, rice, potatoes, eggs, yogurt, avocado). Fast food, candy and sweets are not a calorie strategy; an occasional soda or treat is fine but never the plan.
+Preference: recomp at maintenance (he has love handles and feels 'fat but small'; no real surplus, no cut). Get calories from clean, whole foods (milk, oil, oats, rice, potatoes, eggs, yogurt, avocado). Fast food, candy and sweets are not a calorie strategy; an occasional soda or treat is fine but never the plan.
 
 Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kcal snack. Easy calorie adds: whole milk, yogurt bowl, olive oil, rice, extra oats, avocado.
 
@@ -61,13 +61,15 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 ## Log
 See `log/` for dated notes (what changed and why).
 
-## Current plan (set Nov 6, 2026)
-1. **Food:** ~3,300 kcal, protein 180–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
+## Current plan (set Nov 6, updated Nov 13, 2026)
+1. **Food:** ~3,200–3,300 kcal, protein 180–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
 2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber daily (since Nov 10). Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
 5. **Caffeine:** medium iced coffee instead of large. Caffeine-free soda at night.
-6. **Weigh every morning;** check the weekly average each Sunday. Adjust calories by 150–200 if needed.
+6. **Weigh every morning;** check the weekly average each Sunday. Flat is the goal.
+7. **Waist:** measure at the navel once a week, in the morning. Waist and lifts show recomp progress; the scale barely moves.
+8. **Core / posture:** he has an anterior pelvic tilt and did not train core. Suggested adding dead bugs, hip-tucked planks, glute bridges and a hip flexor stretch 2–3x/week (his training split is planned in Gemini).
 
 ## Food quality preference (Nov 6)
-Wants a lean bulk / lean maintain. Do NOT fill calorie gaps with fast food, fries, burgers, fried pies or similar. Use whole-food calories instead: whole milk, yogurt oat bowls, oats, rice, potatoes, eggs, olive oil, cheese, seeds, fruit (never banana), granola without nuts. Occasional treats are fine but should not be the default snack.
+Wants clean food on the recomp. Do NOT fill calorie gaps with fast food, fries, burgers, fried pies or similar. Use whole-food calories instead: whole milk, yogurt oat bowls, oats, rice, potatoes, eggs, olive oil, cheese, seeds, fruit (never banana), granola without nuts. Occasional treats are fine but should not be the default snack.
