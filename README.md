@@ -8,7 +8,7 @@ Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). G
 ## Daily targets (judge by the weekly average, not single days)
 | | Target |
 |---|---|
-| Calories | **~3,000 kcal** (mini cut, about 300 under maintenance; maintenance measured at ~3,200–3,300, where a week of eating held weight flat at ~196–197 lb). Expect ~0.5 lb/week, 3–4 lb total. **Stop rules:** weekly average reaches 192 lb, main lifts drop two sessions in a row, or loss is faster than 1 lb/week → return to maintenance. |
+| Calories | **~3,100 kcal** (mini cut, about 100–200 under maintenance; maintenance measured at ~3,200–3,300, where a week of eating held weight flat at ~196–197 lb). Expect ~0.25–0.5 lb/week. **Stop rules:** weekly average reaches 192 lb, main lifts drop two sessions in a row, or loss is faster than 1 lb/week → return to maintenance. |
 | Protein | **190–200 g** during the cut |
 | Fiber | ~30 g |
 | Sodium | under 2,300 mg (usually the limit that bites first, especially on fast-food days) |
@@ -62,7 +62,7 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 See `log/` for dated notes (what changed and why).
 
 ## Current plan (set Nov 6, updated Nov 14, 2026)
-1. **Food:** ~3,000 kcal, protein 190–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
+1. **Food:** ~3,100 kcal, protein 190–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
 2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber daily (since Nov 10). Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
