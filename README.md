@@ -3,22 +3,22 @@
 **New chat? Read this whole file first, then pick up where `log/` leaves off.**
 
 ## Who
-Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). Goal: 6-week mini cut (Nov 14 to about Dec 26), then back to maintenance (~3,200–3,300). Budget-conscious. Timezone America/New_York.
+Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). Goal: maintenance at ~3,200 kcal until Thanksgiving, then a planned cut starting **Mon Nov 30** (Block 1 to about Jan 10) to lean out the midsection while keeping strength. Budget-conscious. Timezone America/New_York.
 
 ## Daily targets (judge by the weekly average, not single days)
 | | Target |
 |---|---|
-| Calories | **~3,100 kcal** (mini cut, about 100–200 under maintenance; maintenance measured at ~3,200–3,300, where a week of eating held weight flat at ~196–197 lb). Expect ~0.25–0.5 lb/week. **Stop rules:** weekly average reaches 192 lb, main lifts drop two sessions in a row, or loss is faster than 1 lb/week → return to maintenance. |
+| Calories | **Now (to Nov 29): ~3,200 kcal maintenance** (morning weight held ~194 for a week at ~3,150–3,250 actual intake). **Cut Block 1 (Nov 30 → ~Jan 10):** weeks 1–2 at **~3,000**; weeks 3–6 drop to **~2,850** only if the weekly average is not falling ~0.5 lb/week. Christmas and his birthday are maintenance days. Then a maintenance week mid-January and reassess with photos before any Block 2. **Pause rules:** main lifts drop two sessions in a row, loss faster than 1 lb/week, or sleep/mood/relationship with food gets noticeably worse → back to maintenance. Floor ~2,800. The old 192 lb stop rule is retired. |
 | Protein | **190–200 g** during the cut |
 | Fiber | ~30 g |
-| Sodium | under 2,300 mg (usually the limit that bites first, especially on fast-food days) |
+| Sodium | aim ~2,300–3,000 mg on most days; not a hard daily cliff. Avoid stacking salty takeout (one restaurant meal a day max, not several days in a row). Keep logging it. |
 
 Preference: trim the love handles without getting smaller. Keep the cut small and short, keep meals big, never suggest a larger deficit. Get calories from clean, whole foods (milk, oil, oats, rice, potatoes, eggs, yogurt, avocado). Fast food, candy and sweets are not a calorie strategy; an occasional soda or treat is fine but never the plan.
 
 Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kcal snack. Easy calorie adds: whole milk, yogurt bowl, olive oil, rice, extra oats, avocado.
 
 ## Hard rules
-- **Allergies:** bananas, peanuts, tree nuts. Never suggest them.
+- **Allergies:** bananas and peanuts; among tree nuts his concern is **pistachio and cashew**. **Almonds are fine** (eaten without reaction, incl. Nov 18). Check labels for peanut/pistachio/cashew and 'may contain' warnings; avoid mixed-nut products. Avoid Chick-fil-A and Five Guys (peanut oil).
 - **Gut:** history of a hospital visit for constipation. Chia/seeds are always either **cooked into oatmeal** or **ground dry** in the small blade grinder (10–15 s bursts, no liquid). Never raw, whole chia soaking in the gut.
 - **Units:** grams for everything. tbsp/tsp is OK for oil/spices. **No cup measures.**
 - Recipes: short and low effort. Season generously (he finds small amounts underwhelming).
@@ -61,15 +61,15 @@ Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kca
 ## Log
 See `log/` for dated notes (what changed and why).
 
-## Current plan (set Nov 6, updated Nov 14, 2026)
-1. **Food:** ~3,100 kcal, protein 190–200 g, fiber ~30 g from food, sodium under 2,300 mg. Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
+## Current plan (set Nov 6, updated Nov 22, 2026)
+1. **Food:** ~3,200 kcal now (cut from Nov 30, see targets), protein 190–200 g, fiber ~30 g from food. Late sleeper: keep ~200 kcal for a small slow snack around midnight (Greek yogurt + seeds, or a glass of milk), not a full meal; make the last real meal protein + fiber. He trains fed (breakfast before the gym). Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
 2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber daily (since Nov 10). Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
 5. **Caffeine:** medium iced coffee instead of large. Caffeine-free soda at night.
-6. **Weigh every morning;** check the weekly average each Sunday. Slow loss (~0.5 lb/week) is the goal during the cut.
-7. **Progress check:** he prefers to judge by the mirror, not a tape measure. Lifts holding + waist visibly leaner = working. No step target; keep the post-workout walk.
-8. **Core / posture:** he has an anterior pelvic tilt and did not train core. Suggested adding dead bugs, hip-tucked planks, glute bridges and a hip flexor stretch 2–3x/week (his training split is planned in Gemini).
+6. **Weigh-ins are optional** (his choice; daily weighing was making him anxious). If he weighs, 2–3 mornings a week and use the average. Never push the scale.
+7. **Progress check:** lifts, a weekly waist measurement, and reference photos (taken Nov 22; retake every 3–4 weeks, same spot/lighting/time). Keep the post-workout walk.
+8. **Core / posture (home, 3x/week, ~15 min):** dead bug, bird dog or band Pallof press, hollow hold, kettlebell suitcase hold, weighted glute bridge, half-kneeling hip flexor stretch (daily if possible). **No planks** (he hurt his posture doing weighted planks). Equipment: adjustable kettlebell and dumbbell, bands, med balls. Gym split is planned in Gemini; he already does RDLs, reverse lunges, Bulgarian split squats.
 
 ## Food quality preference (Nov 6)
-Wants clean food on the recomp. Do NOT fill calorie gaps with fast food, fries, burgers, fried pies or similar. Use whole-food calories instead: whole milk, yogurt oat bowls, oats, rice, potatoes, eggs, olive oil, cheese, seeds, fruit (never banana), granola without nuts. Occasional treats are fine but should not be the default snack.
+Wants clean food day to day. Do NOT fill calorie gaps with fast food, fries, burgers, fried pies or similar. Use whole-food calories instead: whole milk, yogurt oat bowls, oats, rice, potatoes, eggs, olive oil, cheese, seeds, fruit (never banana), granola without nuts. Occasional treats are fine but should not be the default snack.
