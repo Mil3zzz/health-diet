@@ -15,7 +15,9 @@ Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). G
 
 Preference: trim the love handles without getting smaller. Keep the cut small and short, keep meals big, never suggest a larger deficit. Get calories from clean, whole foods (milk, oil, oats, rice, potatoes, eggs, yogurt, avocado). Fast food, candy and sweets are not a calorie strategy; an occasional soda or treat is fine but never the plan.
 
-Day shape that works: 3 meals of ~700–800 kcal plus one planned ~400–500 kcal snack. Easy calorie adds: whole milk, yogurt bowl, olive oil, rice, extra oats, avocado.
+**Calorie rule (his):** every day lands **on the target or slightly over, never under.** Plan the day so the last item closes the gap.
+
+Day shape that works: high-volume meals during the day (3 meals of ~700–800 kcal); near bed, **low-volume, calorie-dense** food only (a ~250–400 kcal snack that closes the day: milk, Greek yogurt + seeds/granola, Ryse + milk, plain almonds, granola + milk, occasional Oreos + milk). Easy calorie adds: whole milk, yogurt bowl, olive oil, rice, extra oats, avocado.
 
 ## Hard rules
 - **Allergies:** bananas and peanuts; among tree nuts his concern is **pistachio and cashew**. **Almonds are fine** (eaten without reaction, incl. Nov 18). Check labels for peanut/pistachio/cashew and 'may contain' warnings; avoid mixed-nut products. Avoid Chick-fil-A and Five Guys (peanut oil).
