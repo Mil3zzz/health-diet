@@ -73,5 +73,12 @@ See `log/` for dated notes (what changed and why).
 7. **Progress check:** lifts, a weekly waist measurement, and reference photos (taken Nov 22; retake every 3–4 weeks, same spot/lighting/time). Keep the post-workout walk.
 8. **Core / posture (home, 3x/week, ~15 min):** dead bug, bird dog or band Pallof press, hollow hold, kettlebell suitcase hold, weighted glute bridge, half-kneeling hip flexor stretch (daily if possible). **No planks** (he hurt his posture doing weighted planks). Equipment: adjustable kettlebell and dumbbell, bands, med balls. Gym split is planned in Gemini; he already does RDLs, reverse lunges, Bulgarian split squats.
 
+## Cut staples (agreed Nov 22; focus on satiety)
+Big, filling meals early in the day; lighter at night. Always land on the calorie number or slightly over, never under.
+- **Breakfast:** chicken (or lean beef) and egg scramble. Gym days: ~510 kcal, no potatoes/cheese, eaten 1–2 h before training. Rest days: add potato cubes / a little cheese (~860). Recipe Book: `chicken-egg-scramble`.
+- **Lunch / main meal:** bowl (ground meat + rice + beans + corn + Greek yogurt/Nando's) or chicken + potatoes. Batch-cook protein (2 lb ground chicken) and potatoes (oven 425°F, 30–35 min) so plates are just weigh-and-heat.
+- **Rest of the day:** to be worked out; keep a ~200 kcal slow snack for midnight (Greek yogurt + seeds or milk), not a meal.
+- Lean ground beef (90/10 or 93/7, drained) is back in rotation 2–3x/week.
+
 ## Food quality preference (Nov 6)
 Wants clean food day to day. Do NOT fill calorie gaps with fast food, fries, burgers, fried pies or similar. Use whole-food calories instead: whole milk, yogurt oat bowls, oats, rice, potatoes, eggs, olive oil, cheese, seeds, fruit (never banana), granola without nuts. Occasional treats are fine but should not be the default snack.
