@@ -79,6 +79,7 @@ Big, filling meals early in the day; lighter at night. Always land on the calori
 - **Lunch / main meal:** bowl (ground meat + rice + beans + corn + Greek yogurt/Nando's) or chicken + potatoes. Batch-cook protein (2 lb ground chicken) and potatoes (oven 425°F, 30–35 min) so plates are just weigh-and-heat.
 - **Rest of the day:** to be worked out; keep a ~200 kcal slow snack for midnight (Greek yogurt + seeds or milk), not a meal.
 - Lean ground beef (90/10 or 93/7, drained) is back in rotation 2–3x/week.
+- **Avoid looking flat on the cut:** cut mostly fat, not carbs (fat ~70–80 g, protein ~200 g → ~375 g carbs at 3,000 kcal; trim extra oil, fried food, whole milk before rice/potatoes/oats). Put carbs around training (scramble 1–2 h before, Super Carb during, rice/potatoes after). **Refeed day every 7–10 days** at maintenance (~3,200–3,300) with the extra all from carbs; Christmas and his birthday count as refeeds. Keep creatine, water and normal salt consistent (don't slash sodium during the cut).
 
 ## Food quality preference (Nov 6)
 Wants clean food day to day. Do NOT fill calorie gaps with fast food, fries, burgers, fried pies or similar. Use whole-food calories instead: whole milk, yogurt oat bowls, oats, rice, potatoes, eggs, olive oil, cheese, seeds, fruit (never banana), granola without nuts. Occasional treats are fine but should not be the default snack.
