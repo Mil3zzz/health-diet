@@ -3,12 +3,12 @@
 **New chat? Read this whole file first, then pick up where `log/` leaves off.**
 
 ## Who
-Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). Goal: maintenance at ~3,200 kcal until Thanksgiving, then a planned cut starting **Mon Nov 30** (Block 1 to about Jan 10) to lean out the midsection while keeping strength. Budget-conscious. Timezone America/New_York.
+Miles, 23, ~91 kg, experienced lifter returning after a layoff (not a novice). Goal: planned cut starting **Tue Nov 24** (Block 1 to about Jan 5) to lean out the midsection while keeping strength. Budget-conscious. Timezone America/New_York.
 
 ## Daily targets (judge by the weekly average, not single days)
 | | Target |
 |---|---|
-| Calories | **Now (to Nov 29): ~3,200 kcal maintenance** (morning weight held ~194 for a week at ~3,150–3,250 actual intake). **Cut Block 1 (Nov 30 → ~Jan 10):** weeks 1–2 at **~3,000**; weeks 3–6 drop to **~2,850** only if the weekly average is not falling ~0.5 lb/week. Christmas and his birthday are maintenance days. Then a maintenance week mid-January and reassess with photos before any Block 2. **Pause rules:** main lifts drop two sessions in a row, loss faster than 1 lb/week, or sleep/mood/relationship with food gets noticeably worse → back to maintenance. Floor ~2,800. The old 192 lb stop rule is retired. |
+| Calories | Maintenance measured at ~3,200 (morning weight held ~194 for a week at ~3,150–3,250 actual intake). **Cut Block 1 (Nov 24 → ~Jan 5):** weeks 1–2 at **~3,000**; weeks 3–6 drop to **~2,850** only if the weekly average is not falling ~0.5 lb/week. Thanksgiving (Nov 26), Christmas and his birthday are maintenance/refeed days. Then a maintenance week mid-January and reassess with photos before any Block 2. **Pause rules:** main lifts drop two sessions in a row, loss faster than 1 lb/week, or sleep/mood/relationship with food gets noticeably worse → back to maintenance. Floor ~2,800. The old 192 lb stop rule is retired. |
 | Protein | **190–200 g** during the cut |
 | Fiber | ~30 g |
 | Sodium | aim ~2,300–3,000 mg on most days; not a hard daily cliff. Avoid stacking salty takeout (one restaurant meal a day max, not several days in a row). Keep logging it. |
@@ -64,7 +64,7 @@ Day shape that works: high-volume meals during the day (3 meals of ~700–800 kc
 See `log/` for dated notes (what changed and why).
 
 ## Current plan (set Nov 6, updated Nov 22, 2026)
-1. **Food:** ~3,200 kcal now (cut from Nov 30, see targets), protein 190–200 g, fiber ~30 g from food. Late sleeper: keep ~200 kcal for a small slow snack around midnight (Greek yogurt + seeds, or a glass of milk), not a full meal; make the last real meal protein + fiber. He trains fed (breakfast before the gym). Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
+1. **Food:** ~3,000 kcal (cut started Nov 24, see targets), protein 190–200 g, fiber ~30 g from food. Late sleeper: keep ~200 kcal for a small slow snack around midnight (Greek yogurt + seeds, or a glass of milk), not a full meal; make the last real meal protein + fiber. He trains fed (breakfast before the gym). Make lunch fuller (add whole milk or oil, or rice instead of potatoes); plates are high-volume but low in calories.
 2. **Supplements:** creatine daily, with food or in the shake. Glutamine in the morning is fine to continue (harmless, but weak evidence for gut benefit). OptiFiber daily (since Nov 10). Probiotics optional; restart only if they noticeably helped before.
 3. **Water:** drink more on sweaty and gym days, with some electrolytes. Aim for pale-yellow urine.
 4. **Gut notes:** when the gut feels off, jot the time and what came before it (meal, coffee, time since the night meds). Look for a pattern after a week.
